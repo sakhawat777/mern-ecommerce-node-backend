@@ -1,0 +1,12 @@
+{
+  "name": "mern-ecommerce-node-backend",
+  "version": "1.0.0",
+  "description": "node js apis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sakhawat",
+  "license": "ISC"
+}
